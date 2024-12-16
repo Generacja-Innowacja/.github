@@ -1,7 +1,6 @@
-# Generacja Innowacja
-
 <p align="center">
-  <img src="https://framerusercontent.com/assets/39YO7pAZej040KCXUbYYjFE.png" alt="Fundacja Generacja Innowacja Logo">
+
+  <img src="https://github.com/user-attachments/assets/5d7f9b32-2960-4781-be1a-912283ea414b" alt="Fundacja Generacja Innowacja Logo" width="300">
 </p>
 
 ## About the Foundation
