@@ -22,7 +22,7 @@ organizations in the social impact space**.
   We support young engineers and programmers in developing their essential technical competencies.
 
 - 🧑‍💻 **Talents**  
-  _We are cultivating unique talents._
+  _We are cultivating unique talents._  
   We mentor individuals and support their professional development by providing dedicated space within the Foundation. 
   This enables them to acquire key skills while helping us achieve our goals. Leveraging our expertise and contemporary
   tools, we extend our reach beyond provincial capitals to engage youth from much smaller localities.
