@@ -13,7 +13,7 @@ organizations in the social impact space**.
 
 ## Our key areas of expertise
 - 🚀 **Ecosystem**   
-  _We build an ecosystem supporting other non-governmental organizations._
+  _We build an ecosystem supporting other non-governmental organizations._  
   We develop products specifically designed to support other NGOs. We serve as the technological partner for the non-governmental sector.
 
 - 🖥️ **Technology**   
@@ -28,7 +28,7 @@ organizations in the social impact space**.
   tools, we extend our reach beyond provincial capitals to engage youth from much smaller localities.
 
 - 📚 **Society**  
-  _We are building a politically- and socially-aware society._
+  _We are building a politically- and socially-aware society._  
   We fulfill our social mission through technological products that promote political awareness and facilitate dialogue
   among individuals and communities.
 
